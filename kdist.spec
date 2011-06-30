@@ -2,14 +2,14 @@
 
 Summary:	Tool for managing Mandriva kernel builds
 Name:		kdist
-Version:	0.0.1
+Version:	0.0.2
 Release:	%mkrel 1
 License: 	GPL v2
 Group: 		System/Configuration/Hardware
 Source0:	%{name}-%{version}.tar.bz2
 URL:		http://git.mandriva.com/projects/?p=users/fbui/kdist.git
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-build
-BuildArch:  noarch
+BuildArch:	noarch
 
 %description
 Kdist is a tool for managing Mandriva kernel builds from a git repository.
