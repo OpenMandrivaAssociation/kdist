@@ -2,7 +2,7 @@
 
 Summary:	Tool for managing Mandriva kernel builds
 Name:		kdist
-Version:	0.0.2
+Version:	0.0.4
 Release:	%mkrel 1
 License: 	GPL v2
 Group: 		System/Configuration/Hardware
