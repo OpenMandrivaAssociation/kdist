@@ -29,3 +29,16 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %attr(0755, root, root) %_bindir/kdist
 %_libexecdir/kdist/
+
+
+%changelog
+* Tue Jul 26 2011 Franck Bui <franck.bui@mandriva.com> 0.0.4-1mdv2012.0
++ Revision: 691729
+- v0.0.4
+- Upgrade to v0.0.2
+
+* Mon Jun 27 2011 Eugeni Dodonov <eugeni@mandriva.com> 0.0.1-1
++ Revision: 687561
+- Imported kdist
+- Created package structure for kdist.
+
