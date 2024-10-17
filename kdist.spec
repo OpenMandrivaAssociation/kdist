@@ -7,7 +7,7 @@ Release:	2
 License: 	GPL v2
 Group: 		System/Configuration/Hardware
 Source0:	%{name}-%{version}.tar.bz2
-URL:		http://git.mandriva.com/projects/?p=users/fbui/kdist.git
+URL:		https://git.mandriva.com/projects/?p=users/fbui/kdist.git
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-build
 BuildArch:	noarch
 
